@@ -1,0 +1,25 @@
+{
+ "basic":{
+ 	"objective":"all are true"
+},
+"education":[
+{
+	"degree":"B.Tech(computer science of engineering)",
+	"college":"KLM engineering college",
+	"data":[2014-18","75%"]
+},
+ {
+ 	"degree":"state board of technical education(intermediate)",
+ 	"college":"narayana junior college",
+ 	"data":[2012-2014","95%"]
+ },
+ {
+ 	"degree":"ssc",
+ 	"college":"nagarjuna high school",
+ 	"data":[2011-2012","9.5"]
+ }
+ ]
+ }		
+ 	
+
+	
